@@ -1,0 +1,11 @@
+{
+  "org": "dogmatists",
+  "repo": "dogma.rs",
+  "versions": [
+    {
+      "commit": "05158408aca889a5bcc4ede013c42603f4e1c3c8",
+      "tag": "0.1.11",
+      "parsed_at": "2026-11-22T08:40:31.679688+00:00"
+    }
+  ]
+}
