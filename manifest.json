@@ -52,6 +52,45 @@
       ],
       "ast": [
         "aggregate/ast/05158408aca889a5bcc4ede013c42603f4e1c3c8/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/05158408aca889a5bcc4ede013c42603f4e1c3c8.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "iri-string",
+          "ecosystem": "CARGO",
+          "version": "0.7.8",
+          "githubOrg": "lo48576",
+          "githubRepo": "iri-string",
+          "githubCommit": "71a2bd3967ddf1c282874964823a3984b83f4524",
+          "githubTag": "v0.7.8",
+          "githubUrl": "https://github.com/lo48576/iri-string",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iri-string-0.7.8/src/components/authority.rs"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0.219",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "49d098debdf8b5c38bfb6868f455c6ce542c422c",
+          "githubTag": "v1.0.219",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.219/src/ser/impls.rs"
+        },
+        {
+          "packageName": "known-schemes",
+          "ecosystem": "CARGO",
+          "version": "0.2.0",
+          "githubOrg": "it-is-known",
+          "githubRepo": "known-schemes",
+          "githubCommit": "b090fcad5eebbbe3d1f30adbdd97d3ddaa5ca0e7",
+          "githubTag": "0.2.0",
+          "githubUrl": "https://github.com/it-is-known/known-schemes",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/known-schemes-0.2.0/src/lib.rs"
+        }
       ]
     }
   ],
